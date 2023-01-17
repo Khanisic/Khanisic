@@ -1,6 +1,23 @@
-<img src="./github.gif">
+<img src="./github.gif" alt="Hi">
+<h3 align="center">CS Undergraduate, Web3 Developer and sometimes on the verge of loosing it.</h3>
 
-<h3 align="center">CS Graduate, Web3 Developer and sometimes a dreamer.</h3>
+- 🔭 I’m currently working on **Web3 NFT Card Game**
+
+- 🌱 I’m currently learning **Three.js and Auditing Smart Contracts**
+
+- 👯 I’m looking to collaborate on **Something football related and Web3**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-nu-green.vercel.app/](https://portfolio-nu-green.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@skhan852000](https://medium.com/@skhan852000)
+
+- 💬 Ask me about **NFTs and Blockchain**
+
+- 📫 How to reach me **skhan852000@gmail.cpm**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1SBBcuM9HMzPVOB6jThA6oOIi2lKPCXxgx0dc3Bp8Z1c/edit?usp=sharing](https://docs.google.com/document/d/1SBBcuM9HMzPVOB6jThA6oOIi2lKPCXxgx0dc3Bp8Z1c/edit?usp=sharing)
+
+- ⚡ Fun Goal **To become ambidextrous and land a backflip.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
