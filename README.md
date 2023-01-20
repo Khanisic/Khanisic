@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Three.js and Auditing Smart Contracts**
 
-- 👯 I’m looking to collaborate on **Something football related and Web3**
+- 🤝 I’m looking to collaborate on **Something football related and Web3**
 
 - 👨‍💻 Link to my portfolio website: [Portfolio](https://portfolio-nu-green.vercel.app/)
 
-- 📝 I regularly write articles on [Blogs](https://medium.com/@skhan852000)
+- 📝 I regularly write articles on [Medium](https://medium.com/@skhan852000)
 
 - 💬 Ask me about **NFTs and Blockchain**
 
