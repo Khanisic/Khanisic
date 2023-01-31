@@ -2,7 +2,8 @@
 <hr>
 <h3 align="center">CS Undergraduate, Web3 Developer and sometimes on the verge of loosing it.</h3>
 <hr>
-- 🔭 I’m currently working on **Web3 NFT Card Game**
+
+- 🔭 I’m currently working on *Web3 MERN application*
 
 - 🌱 I’m currently learning **Three.js and Auditing Smart Contracts**
 
