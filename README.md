@@ -1,19 +1,19 @@
 <img src="./github.gif" alt="Hi">
 <hr>
-<h3 align="center">CS Undergraduate, Web3 Developer and sometimes on the verge of loosing it.</h3>
+<h3 align="center">CS Graduate, Web3 and Full Stack Developer and sometimes on the verge of loosing it.</h3>
 <hr>
 
 - 🔭 I’m currently working on *Web3 MERN application*
 
 - 🌱 I’m currently learning **Three.js and Auditing Smart Contracts**
 
-- 🤝 I’m looking to collaborate on **Something football related and Web3**
+- 🤝 I’m looking to collaborate on **Something football related, Next.js 14 and Web3**
 
 - 👨‍💻 Link to my portfolio website: [Portfolio](https://portfolio-nu-green.vercel.app/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@skhan852000)
 
-- 💬 Ask me about **NFTs and Blockchain**
+- 💬 Ask me about **NFTs, Next.js 14 and Blockchain**
 
 - 📫 Reach me at:  [My Email](skhan852000@gmail.com)
 
