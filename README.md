@@ -3,21 +3,19 @@
 <h3 align="center">CS Graduate, Web3 and Full Stack Developer and sometimes on the verge of loosing it.</h3>
 <hr>
 
-- 🔭 I’m currently working on *Web3 MERN application*
+- 🔭 I’m currently working on *SaaS Applications*
 
 - 🌱 I’m currently learning **Three.js and Auditing Smart Contracts**
 
 - 🤝 I’m looking to collaborate on **Something football related, Next.js 14 and Web3**
 
-- 👨‍💻 Link to my portfolio website: [Portfolio](https://portfolio-nu-green.vercel.app/)
+- 👨‍💻 Link to my portfolio website: [Portfolio](https://khanisic.xyz/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@skhan852000)
 
 - 💬 Ask me about **NFTs, Next.js 14 and Blockchain**
 
 - 📫 Reach me at:  [My Email](skhan852000@gmail.com)
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1SBBcuM9HMzPVOB6jThA6oOIi2lKPCXxgx0dc3Bp8Z1c/edit?usp=sharing)
 
 - ⚡ Fun Goal **To become ambidextrous and land a backflip.**
 
