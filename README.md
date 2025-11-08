@@ -1,6 +1,6 @@
 <img src="./github.gif" alt="Hi">
 <hr>
-<h3 align="center">CS Graduate, Web3 and Full Stack Developer and sometimes on the verge of loosing it.</h3>
+<h3 align="center">CS Graduate, Full Stack Developer and sometimes on the verge of loosing it.</h3>
 <hr>
 
 - 🔭 I’m currently working on *SaaS Applications*
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@skhan852000)
 
-- 💬 Ask me about **NFTs, Next.js 14 and Blockchain**
+- 💬 Ask me about **DSA, Next.js and Rive**
 
 - 📫 Reach me at:  [My Email](skhan852000@gmail.com)
 
